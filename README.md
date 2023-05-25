@@ -1,7 +1,15 @@
-### Hi there 👋
 <div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=begachu)](https://solved.ac/begachu/)
+  
+  # Hi! I'm Yugyoung Han 😸
+  
+  좋은 화면을 제공하기 위해 꾸준히 고민하고 공부하는 개발자입니다
+  
+  직관적이고 깔끔한 화면을 디자인하고, 디테일한 부분까지 생각하며 구현합니다
+ 
+  
+  <br>
+  
+  # Skills
   
   ### 💻Programing Language💻
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -27,6 +35,8 @@
   ### 🎨Design Skill🎨
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/adobexd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white">
-
-
+  <br>
+  <br>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=begachu)](https://solved.ac/begachu/)
 </div>
